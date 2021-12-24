@@ -1,4 +1,4 @@
-# horiseon
+# Horiseon
 
 ## Purpose
 A website that offers a service to optimize browser search engines to find a user product.
